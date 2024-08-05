@@ -762,6 +762,14 @@ form {
 .new-video {
   display: none;
 }
+.knopka-two {
+  display: none;
+}
+
+
+
+
+
 
 @media (max-width: 500px) {
   .start {
